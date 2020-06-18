@@ -3,14 +3,8 @@ package com.helloword;
 public class HelloWord {
     public static void main(String[] args) {
         System.out.println("Hello Word!!!");
-        DoubleUtil();
+
+        System.out.println("没有BUG!!!");
     }
 
-    public static double DoubleUtil(){
-
-        double number=1;
-        System.out.println(number);
-        return number;
-
-    }
 }
