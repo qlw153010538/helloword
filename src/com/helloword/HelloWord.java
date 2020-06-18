@@ -9,6 +9,8 @@ public class HelloWord {
     public static double DoubleUtil(){
 
         double number=1;
+        System.out.println(number);
         return number;
+
     }
 }
